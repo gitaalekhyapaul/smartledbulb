@@ -1,2 +1,3 @@
-# smartledbulb
-A Bluetooth controlled Smart LED Bulb created using open-source at half the market price.
+# Smart LED Bulb
+** A smart LED mood lightbulb built using Open-Source Technologies at half the market price  
+This bulb 
