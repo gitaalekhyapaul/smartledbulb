@@ -15,7 +15,7 @@ As for the App interaction, both RoboRemo and [Blynk](https://blynk.io/) can be 
 > ![Circuit Diagram](./assets/images/circuit_diagram.jpg)
 > [Made using Fritzing](https://fritzing.org/download/)
 
->### **Sample App Interface using RoboRemo Free App**
+### **Sample App Interface using RoboRemo Free App**
 >![App Interface](./assets/images/roboremo_interface.png)  
 
 ### **Future Prospects**
